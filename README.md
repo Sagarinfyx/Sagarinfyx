@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sagar singh
 - 👀 I’m interested in coding,travel and painting.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data science and full stack developer
 - 📫 How to reach me sagarinfyx@gmail.com
 
 <!---
